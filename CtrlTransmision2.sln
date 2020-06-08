@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CtrlTransmision2", "CtrlTransmision2\CtrlTransmision2.csproj", "{98AF9E01-C4EF-4DD7-B5E8-2CFA46FA3606}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98AF9E01-C4EF-4DD7-B5E8-2CFA46FA3606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98AF9E01-C4EF-4DD7-B5E8-2CFA46FA3606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98AF9E01-C4EF-4DD7-B5E8-2CFA46FA3606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98AF9E01-C4EF-4DD7-B5E8-2CFA46FA3606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9BBB6B5-94F9-474E-B122-B27CC6341013}
+	EndGlobalSection
+EndGlobal
